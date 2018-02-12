@@ -1,6 +1,6 @@
-= Numerical calculations of magnetic fields
+= Numerical calculations of electric fields
 
-This repository contains code useful for numerically calculating the magnetic field due to some popular current distributions.
+This repository contains code useful for numerically calculating the electric field due to some popular charge distributions.
 
 You can view and execute this code at:
 
