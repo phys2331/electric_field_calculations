@@ -1,0 +1,16 @@
+= Numerical calculations of magnetic fields
+
+This repository contains code useful for numerically calculating the magnetic field due to some popular current distributions.
+
+You can view and execute this code at:
+
+https://mybinder.org/v2/gh/pibion/electric_field_calculations.git/master?filepath=point_charge_calc.ipynb
+
+Alternatively, you can clone this code with:
+
+[source, bash]
+----
+$ git clone git@github.com:pibion/electric_field_calculations.git
+----
+
+
